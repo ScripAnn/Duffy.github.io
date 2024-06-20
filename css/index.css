@@ -1,0 +1,256 @@
+.banxin{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.tops{
+    position: relative;
+    height: 80px;
+    /* background-color: pink; */
+}
+
+.tops .logo img{
+    float: left;
+    width: 80px;
+}
+
+.tops .name{
+    float: left;
+    margin-top: 18px;
+    margin-left: 10px;
+}
+
+.tops .name span{
+    font-size: 16px;
+}
+
+.tops .name p{
+    font-size: 13px;
+}
+
+.tops .rig ul {
+    float: right;
+    margin-top: 18px;
+}
+
+.tops .rig ul li{
+    text-align: center;
+    width: 128px;
+    float: left;
+}
+
+.tops .rig ul li:hover{
+    color: #40a0f7;
+    border-bottom: 2px solid #40a0f7;
+}
+
+.tops .sosuo{
+    position: absolute;
+    top: 52px;
+    right: 128px;
+}
+
+.tops .sosuo input{
+    width: 150px;
+    height: 25px;
+    border: 1px solid #ccc;
+}
+
+.tops .sosuo img{
+    position: absolute;
+    top: -1px;
+    right: -33px;
+}
+
+.xiala{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    /* background-color: pink; */
+}
+
+.xiala select{
+    width: 110px;
+    border: 1px solid #ccc;
+    margin-right: 25px;
+}
+
+.bandasf{
+    width: 1200px;
+    height: 525px;
+    background-image: url(../images/20170610102611_88436.jpg);
+    background-size: 100% 100%;
+}
+
+.xuezsfds{
+    height: 508px;
+    /* background-color: pink; */
+    margin-top: 35px;
+}
+
+.xuezsfds .top{
+    text-align: center;
+    height: 50px;
+    /* background-color: orange; */
+    line-height: 50px;
+}
+
+.xuezsfds .top h3 a{
+    border-bottom: 1px solid #000;
+}
+
+.xuezsfds .top h3 span{
+    float: right;
+    font-size: 13px;
+}
+
+.xuezsfds .tu img{
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 430px;
+    height: 330px;
+    border: 2px solid #40a0f7;
+}
+
+.xuezsfds .xiaoli ul{
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.xuezsfds .xiaoli ul li{
+    line-height: 60px;
+    text-align: center;
+    margin-bottom: 15px;
+    width: 480px;
+    height: 60px;
+    background-color: #882829;
+    background-image: url(../images/屏幕截图\ 2024-05-15\ 132339.png);
+    background-size: 100% 100%;
+}
+
+.xuezsfds .xiaoli ul li img{
+    width: 480px;
+    height: 60px;
+}
+
+/* .xuezsfds .xiaoli ul li .box{
+    color: aliceblue;
+    float: left;
+    width: 60px;
+    height: 60px;
+    background-color: orange;
+}
+
+.xuezsfds .xiaoli ul li span{
+   font-size: 13px;
+} */
+
+
+.xuezsfds .gay{
+    margin: 0 auto;
+    width: 1000px;
+    height: 315px;
+    /* background-color: orange; */
+}
+
+.xuezsfds .gay ul li{
+    margin-top: 50px;
+    float: left;
+    margin-right: 134px;
+    margin-bottom: 50px;
+    width: 433px;
+    height: 109px;
+    background-image: url(../images/屏幕截图\ 2024-05-15\ 134153.png);
+    background-size: 100% 100%;
+}
+
+.xuezsfds .gay ul li:nth-child(2){
+    margin-right: 0;
+}
+
+.xiaoli ul li p{
+    display: none;
+}
+
+.xuezsfds .gay ul li:nth-child(4){
+    margin-right: 0;
+}
+
+#ou{
+    width: 433px;
+}
+
+.xuezsfds .dfuiie img{
+    float: left;
+    margin-top: 50px;
+    width: 530px;
+    height: 370px;
+    /* background-color: orange; */
+}
+
+.xuezsfds .leds{
+    margin-top: 50px;
+    float: right;
+    width: 530px;
+    height: 370px;
+    /* background-color: pink; */
+}
+
+.xuezsfds .leds .tisj img{
+    width: 530px;
+    height: 160px;
+    /* background-color: chartreuse; */
+}
+
+.gay h5,p{
+    display: none;
+}
+
+.xuezsfds .sdjuh ul li{
+    margin-right: 50px;
+    margin-top: 20px;
+    float: left;
+    width: 240px;
+    height: 190px;
+    /* background-color: darkcyan; */
+}
+
+.xuezsfds .sdjuh ul li img{
+    width: 240px;
+    height: 190px;
+}
+
+.xuezsfds .sdjuh ul li:nth-child(2){
+    margin-right: 0;
+}
+
+.banqu{
+    border: 1px solid #ccc;
+    margin-top: 500px;
+    height: 80px;
+    /* background-color: pink; */
+}
+
+.banqu{
+    position: relative;
+}
+
+.banqu .ahj{
+    position: absolute;
+    top: 40px;
+    left: 435px;
+}
+
+.banqu .ahj ul li{
+    margin-right: 8px;
+    float: left;
+    font-size: 13px;
+    float: left;
+}
+
+.banqu .ahj ul li:nth-child(3){
+    margin-right: 200px;
+}
